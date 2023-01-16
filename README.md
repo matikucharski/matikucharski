@@ -1,6 +1,6 @@
 ## ✨My Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=matikucharski&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=matikucharski&theme=onedark)](https://git.io/streak-stats)
 
 <!--
 **matikucharski/matikucharski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
