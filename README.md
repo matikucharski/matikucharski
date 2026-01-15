@@ -1,6 +1,6 @@
 ## ✨My Stats
 
-[![GitHub Streak](https://github-readme-streak-stats-vijaypur.vercel.app?user=matikucharski&theme=onedark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-vijaypur.vercel.app?user=matikucharski&theme=onedark&mode=weekly)](https://git.io/streak-stats)
 
 <!--
 **matikucharski/matikucharski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
